@@ -1,4 +1,4 @@
-# Factual CoCo: A metric for factual consistency in text generation via counterfactual estimation
+# Factual CoCo: A metric for factual consistency in text summarization via counterfactual estimation
 
 The implementation of *Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation* in PyTorch.
 <br/> <br/>
