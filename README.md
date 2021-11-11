@@ -57,7 +57,7 @@ python3 run_coco.py --model_path /path/to/model --data_path /path/to/data --outp
 
 <br/> <br/>
 ## Cite
-If you find this repository useful for your research or development, please cite the following [paper](https://arxiv.org/abs/2108.13134):
+If you find this repository useful for your research or development, please cite the following [paper](https://aclanthology.org/2021.findings-emnlp.10/):
 ```
 @inproceedings{xie2021factual,
     title = "Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation",
