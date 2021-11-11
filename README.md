@@ -59,11 +59,15 @@ python3 run_coco.py --model_path /path/to/model --data_path /path/to/data --outp
 ## Cite
 If you find this repository useful for your research or development, please cite the following [paper](https://arxiv.org/abs/2108.13134):
 ```
-@article{xie2021factual,
-  title={Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation},
-  author={Xie, Yuexiang and Sun, Fei and Deng, Yang and Li, Yaliang and Ding, Bolin},
-  journal={arXiv preprint arXiv:2108.13134},
-  year={2021}
+@inproceedings{xie2021factual,
+    title = "Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation",
+    author = "Xie, Yuexiang  and Sun, Fei  and Deng, Yang  and Li, Yaliang  and Ding, Bolin",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    month = nov,
+    year = "2021",
+    url = "https://aclanthology.org/2021.findings-emnlp.10",
+    pages = "100--110"
 }
+
 ```
 
